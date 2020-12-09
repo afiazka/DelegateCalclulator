@@ -1,0 +1,11 @@
+D:\3117\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe.config
+D:\3117\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe
+D:\3117\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.pdb
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csprojAssemblyReference.cache
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\Calculatorbaru.FormHitung.resources
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\Calculatorbaru.FormKalkulator.resources
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.Properties.Resources.resources
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.GenerateResource.cache
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.CoreCompileInputs.cache
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.exe
+D:\3117\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.pdb
